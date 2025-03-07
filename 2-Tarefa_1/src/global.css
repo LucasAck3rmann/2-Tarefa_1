@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.2) 15.98%,
+    #ed109c 92.39%
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  color: #000000;
+  --webkit-font-smoothing: antialiased;
+}
+
+body,
+input,
+textarea,
+button {
+  font: 600 1rem "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
