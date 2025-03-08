@@ -1,4 +1,4 @@
-# Tarefa 2
+# Tarefa 1
 
 ## Sobre o Projeto
 Este repositório contém uma tarefa prática desenvolvida durante o módulo básico de Front-End no curso 3035Teach. O objetivo é reforçar os conceitos fundamentais de React e TypeScript, criando uma interface dinâmica e interativa.
